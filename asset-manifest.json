@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Anas-FinalReactProject/static/css/main.9e4eb0cc.css",
+    "main.js": "/Anas-FinalReactProject/static/js/main.46e4c3ee.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Anas-FinalReactProject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/alarm.jpg": "/Anas-FinalReactProject/static/media/alarm.0e280427884afed8485c.jpg",
+    "static/media/revicons.eot": "/Anas-FinalReactProject/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Anas-FinalReactProject/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Anas-FinalReactProject/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Anas-FinalReactProject/index.html",
+    "main.9e4eb0cc.css.map": "/Anas-FinalReactProject/static/css/main.9e4eb0cc.css.map",
+    "main.46e4c3ee.js.map": "/Anas-FinalReactProject/static/js/main.46e4c3ee.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Anas-FinalReactProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4eb0cc.css",
+    "static/js/main.46e4c3ee.js"
+  ]
+}
